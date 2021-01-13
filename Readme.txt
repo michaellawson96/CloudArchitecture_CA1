@@ -1,0 +1,1 @@
+This is the website that will be sent to the amazon linux ec2 instance for hosting with apache
